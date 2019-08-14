@@ -7,6 +7,13 @@ public class AppTest {
 		System.out.println("line 215");
 		System.out.println("line 216");
 		System.out.println("line 217");
+<<<<<<< HEAD
+=======
+		System.out.println("line 218");
+		System.out.println("line 219");
+		System.out.println("line 220");
+		System.out.println("line 221");
+>>>>>>> develop
 		
 
 		
